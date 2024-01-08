@@ -10,7 +10,7 @@
 
 ★ Knowledge of Web Development and Database Management System
 
-★ Experienced in Analytical, Communication and Interpersonal skills.
+★ Experienced in Analytical, Communication and Interpersonal skills
 
 ★ A Strong contributor with a passion to produce quality of service. Possessing excellent customer relations in collecting, and analyzing user requirements
 
