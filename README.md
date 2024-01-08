@@ -4,7 +4,9 @@
   <a href="https://www.linkedin.com/in/meetp24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <div>
     <img src="https://komarev.com/ghpvc/?username=meet24&style=flat-square&color=blue" alt=""/>
+    </div>
   </div>
 </div>
 
