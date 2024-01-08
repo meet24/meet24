@@ -26,7 +26,9 @@
 
 ★ Experienced in Analytical, Communication and Interpersonal skills
 
-★ A Strong contributor with a passion to produce quality of service. Possessing excellent customer relations in collecting, and analyzing user requirements
+★ A Strong contributor with a passion to produce quality of service 
+
+★ Possessing excellent customer relations in collecting, and analyzing user requirements
 
 ★ Experience working in teams and developed leadership qualities by coordinating technical and nontechnical events
 
@@ -54,3 +56,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meet24&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meet24&layout=compact&theme=vision-friendly-dark)](https://github.com/meet24/github-readme-stats)
